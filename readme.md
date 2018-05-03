@@ -39,6 +39,11 @@ MAX485 to ATTiny84 using software serial:
 - DE and RE to PA3
 
 
+## Programming
+
+Via 6-pin ISP connector.
+
+
 ## Layout and PCB
 
 - [Schematics (PDF)](docs/assets/schematics.pdf)

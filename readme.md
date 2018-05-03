@@ -1,10 +1,9 @@
-# Tiny Sensor
+# Passive Sense
 
-One module to:
+One module that can:
 
-- Transmit sensor data over RFM69 and/or RS-485.
-- Receive sensor data over RFM69, process and forward over RS-485.
-- Receive sensor data over RFM69 on Raspberry PI connected via SPI0.
+- Transmit and receive sensor data over RFM69 and RS-485.
+- Connect RFM69 to Raspberry PI via SPI0.
 
 
 ## Components
